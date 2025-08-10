@@ -102,4 +102,3 @@ Hiring Team"""
             "responses_sent": responses_sent,
         }
         # end of non-modifiable block
-
